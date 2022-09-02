@@ -1,0 +1,23 @@
+BANCO DE DADOS
+
+Nome: João Lucas Lima Alexandre
+Professor: Aglayrton Julião
+
+ATIVIDADE VALENDO 1 PONTO
+- Criar Modelo MER (Conceitual) 0,25
+- Criar Modelo Lógico 0,25
+- Caderno 0,25
+- BrModelo 0,25
+
+Total = 1 ponto
+
+Dica: Youtube - Boson Treinamentos
+Apostila: 1 até 54
+
+#PROBLEMATIZAÇÃO
+"Uma empresa necessita criar um sistema de recados
+para motivar os colaboradores nas suas atividades, nisso
+é necessário que tenha um sistema de login e senha onde
+cada usuário pode ter mais de um nível de acesso (adm, colaborador)
+e os recados podem ser publicados pelos usuários, o recado contém:
+assunto e descrição."

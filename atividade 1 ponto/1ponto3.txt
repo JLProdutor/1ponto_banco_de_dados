@@ -1,0 +1,8 @@
+USUARIO(id, nome, cpf, telefone fixo, telefone celular, endereco, e-mail, senha, usuarioid)
+ENDERECO(rua, numero, cidade)
+
+RECADO(id, assunto, descricao)
+
+NIVEL(id, administrador, colaborador, nivelid)
+
+USUARIO/NIVEL(usuarioid, nivelid)
